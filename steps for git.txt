@@ -1,0 +1,7 @@
+steps for git:
+git --version
+git init (to initialise version control)
+git add one.py (file name, to make addition to the file)
+git rm --cached one.py (rm function to remove the file, and cached to remove cache data)
+git status (to track the status)
+git commit -m "new py file added" (commit function to roll out to main branch. -m used to write a message)
